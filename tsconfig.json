@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "allowJs": true,
+    "declaration": true,
+    "outDir": "dist/type",
+    "strict": false,
+    "experimentalDecorators": true,
+    "skipLibCheck": true
+  },
+  "include": ["./src/", "./types/"]
+}
